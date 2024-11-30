@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm Parth</h1>
-<p>A passionate Backend developer from </p>
+<p>A passionate Backend developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
 
 
